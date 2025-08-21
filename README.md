@@ -4,7 +4,7 @@ WebRadio Italiane è un **software desktop standalone** che consente di ascoltar
 L’applicazione è distribuita come file **.exe** (per Windows) e funziona immediatamente, senza configurazioni manuali.
 
 ---
-⚠️ **Nota**: questo repository non contiene i sorgenti. I file `.exe` sono stati compilati a partire dal progetto originale.
+⚠️ **Nota**: questo repository non contiene i sorgenti. Il file `.exe` è stato compilato a partire dal progetto originale.
 
 ## 🚀 Caratteristiche
 
